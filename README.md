@@ -3,7 +3,7 @@ Name: Vanitha S
 Register Number: 212222100057
 ```
 # Implementation of combinational logic gates
-Implementation of combinational logic gates
+
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
