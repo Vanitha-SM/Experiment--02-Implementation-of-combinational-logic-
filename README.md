@@ -2,7 +2,7 @@
 Name: Vanitha S
 Register Number: 212222100057
 ```
-# Experiment 02 Implementation of combinational logic
+# Implementation of combinational logic
 Implementation of combinational logic gates
  
 ## AIM:
